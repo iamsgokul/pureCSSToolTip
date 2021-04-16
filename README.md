@@ -28,4 +28,4 @@ Import your purecsstooltip.css file in your file. And addded the html attribute 
 <button tooltip-lbl='Bottom Left' tooltip-pos='top-left'>Bottom Left</button>
 ```
 
-We give five different Sizes for tooltip `Small, Medium, Large, Extra Large, and Fit`. You can use the HTML attribute `tooltip-size` to set the size of the tooltip for <b>small</b> size use `tooltip-size='sm'` for `medium` `tooltip-size='md'` for `large` `tooltip-size='lg'` for <b>extra large</b> `tooltip-size='xlg'` for <b>fit</b> `tooltip-size='fit'`.
+We give five different Sizes for tooltip `Small, Medium, Large, Extra Large, and Fit`. You can use the HTML attribute `tooltip-size` to set the size of the tooltip for `<b>small</b>` size use `tooltip-size='sm'` for `<b>medium<b>` `tooltip-size='md'` for `<b>large</b>` `tooltip-size='lg'` for `<b>extra large</b>` `tooltip-size='xlg'` for `<b>fit</b>` `tooltip-size='fit'`.
