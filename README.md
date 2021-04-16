@@ -19,14 +19,15 @@ Import your purecsstooltip.css file in your file. And addded the html attribute 
 Position:
 
 <pre>
-&lt;button tooltip-lbl=&#039;Top&#039; tooltip-pos=&#039;top&#039;&gt;Top&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;Bottom&#039; tooltip-pos=&#039;top&#039;&gt;Bottom&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;left&#039; tooltip-pos=&#039;top&#039;&gt;Left&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;right&#039; tooltip-pos=&#039;top&#039;&gt;Right&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;Top Right&#039; tooltip-pos=&#039;top-right&#039;&gt;Top Right&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;Bottom Right&#039; tooltip-pos=&#039;bottom-right&#039;&gt;Bottom Right&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;Top Left&#039; tooltip-pos=&#039;top-left&#039;&gt;Top Left&lt;/button&gt;
-&lt;button tooltip-lbl=&#039;Bottom Left&#039; tooltip-pos=&#039;top-left&#039;&gt;Bottom Left&lt;/button&gt;
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Top&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top&#039;<span style="color:#b71212">&gt;Top&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Bottom&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top&#039;<span style="color:#b71212">&gt;Bottom&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=<span>&#039;left&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top&#039;<span style="color:#b71212">&gt;Left&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;right&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top&#039;<span style="color:#b71212">&gt;Right&lt;/button&gt;</span>
+<br/><br/>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Top Right&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top-right&#039;<span style="color:#b71212">&gt;Top Right&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Bottom Right&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;bottom-right&#039;<span style="color:#b71212">&gt;Bottom Right&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Top Left&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top-left&#039;<span style="color:#b71212">&gt;Top Left&lt;/button&gt;</span>
+<span style="color:#b71212">&lt;button tooltip-lbl=</span>&#039;Bottom Left&#039; <span style="color:#b71212">tooltip-pos=</span>&#039;top-left&#039;<span style="color:#b71212">&gt;Bottom Left&lt;/button&gt;</span>
 </pre>
 
 We give five different Sizes for tooltip Small, Medium, Large, Extra Large, and Fit. You can use the HTML attribute <b>tooltip-size</b> to set the size of the tooltip for <b>small</b> size use tooltip-size='sm' for <b>medium</b> tooltip-size='md' for <b>large</b> tooltip-size='lg' for <b>extra large</b> tooltip-size='xlg' for <b>fit</b> tooltip-size='fit'.
