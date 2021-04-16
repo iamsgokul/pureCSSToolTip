@@ -8,7 +8,7 @@ ToolTip.css is used to the added tooltip for a web app, web page without javascr
 
 ### How to use this tooltip on your HTML file
 
-Import your purecsstooltip.css file in your file. And addded the html attribute `<b>tooltip-lbl</b>` what text will appear on the tooltip `<b>tooltip-pos</b>` which position you want to show the tooltip on web page.
+Import your purecsstooltip.css file in your file. And addded the html attribute `tooltip-lbl` what text will appear on the tooltip `tooltip-pos` which position you want to show the tooltip on web page.
 
 <img src='https://raw.githubusercontent.com/iamsgokul/pureCSSToolTip/main/images/tool-tip.gif'/>
 
@@ -28,4 +28,4 @@ Import your purecsstooltip.css file in your file. And addded the html attribute 
 <button tooltip-lbl='Bottom Left' tooltip-pos='top-left'>Bottom Left</button>
 ```
 
-We give five different Sizes for tooltip <b>Small, Medium, Large, Extra Large, and Fit</b>. You can use the HTML attribute `<b>tooltip-size</b>` to set the size of the tooltip for <b>small</b> size use `tooltip-size='sm'` for <b>medium</b> `tooltip-size='md'` for <b>large</b> `tooltip-size='lg'` for <b>extra large</b> `tooltip-size='xlg'` for <b>fit</b> `tooltip-size='fit'`.
+We give five different Sizes for tooltip `Small, Medium, Large, Extra Large, and Fit`. You can use the HTML attribute `tooltip-size` to set the size of the tooltip for <b>small</b> size use `tooltip-size='sm'` for `medium` `tooltip-size='md'` for `large` `tooltip-size='lg'` for <b>extra large</b> `tooltip-size='xlg'` for <b>fit</b> `tooltip-size='fit'`.
