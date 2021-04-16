@@ -8,7 +8,7 @@ ToolTip.css is used to the added tooltip for a web app, web page without javascr
 
 ### How to use this tooltip on your HTML file
 
-** Using NPM **
+**Using NPM:**
 ```
 npm install purecsstooltip
 ```
@@ -18,14 +18,14 @@ You can import directly in to JS
 import 'purecsstooltip';
 ```
 
-** CDN Version: **
+**CDN Version:**
 If you don't want to use npm there is CDN option:
 
 ``` HTML
 <link rel='stylesheet' href='https://unpkg.com/purecsstooltip@1.0.7/purecsstooltip.min.css'>
 ```
 
-** Manually **
+**Manually:**
 Simple download purecsstooltip.min.css form this repositor and save to your project folder and call the css in head section on html
 ```HTML
 <link rel='stylesheet' href='folder-path/purecsstooltip.min.css'>
