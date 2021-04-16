@@ -19,14 +19,14 @@ Import your purecsstooltip.css file in your file. And addded the html attribute 
 Position:
 
 <pre>
- <button tooltip-lbl='Top' tooltip-pos='top'>Top</button>
-<button tooltip-lbl='Bottom' tooltip-pos='top'>Bottom</button>
-<button tooltip-lbl='left' tooltip-pos='top'>Left</button>
-<button tooltip-lbl='right' tooltip-pos='top'>Right</button>
-<button tooltip-lbl='Top Right' tooltip-pos='top-right'>Top Right</button>
-<button tooltip-lbl='Bottom Right' tooltip-pos='bottom-right'>Bottom Right</button>
-<button tooltip-lbl='Top Left' tooltip-pos='top-left'>Top Left</button>
-<button tooltip-lbl='Bottom Left' tooltip-pos='top-left'>Bottom Left</button>
+&lt;button tooltip-lbl=&#039;Top&#039; tooltip-pos=&#039;top&#039;&gt;Top&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;Bottom&#039; tooltip-pos=&#039;top&#039;&gt;Bottom&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;left&#039; tooltip-pos=&#039;top&#039;&gt;Left&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;right&#039; tooltip-pos=&#039;top&#039;&gt;Right&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;Top Right&#039; tooltip-pos=&#039;top-right&#039;&gt;Top Right&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;Bottom Right&#039; tooltip-pos=&#039;bottom-right&#039;&gt;Bottom Right&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;Top Left&#039; tooltip-pos=&#039;top-left&#039;&gt;Top Left&lt;/button&gt;
+&lt;button tooltip-lbl=&#039;Bottom Left&#039; tooltip-pos=&#039;top-left&#039;&gt;Bottom Left&lt;/button&gt;
 </pre>
 
 We give five different Sizes for tooltip Small, Medium, Large, Extra Large, and Fit. You can use the HTML attribute <b>tooltip-size</b> to set the size of the tooltip for <b>small</b> size use tooltip-size='sm' for <b>medium</b> tooltip-size='md' for <b>large</b> tooltip-size='lg' for <b>extra large</b> tooltip-size='xlg' for <b>fit</b> tooltip-size='fit'.
