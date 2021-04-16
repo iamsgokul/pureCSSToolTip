@@ -10,7 +10,7 @@ ToolTip.css is used to the added tooltip for a web app, web page without javascr
 
 **Using NPM:**
 ```
-npm install purecsstooltip
+npm is purecsstooltip
 ```
 
 You can import directly in to JS
